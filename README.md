@@ -9,7 +9,7 @@ This project goes beyond basic data analysis. It integrates unsupervised machine
 
 ## 🎯 Core Business Objectives
 1. **Behavioral Customer Segmentation:** Transitioning from traditional demographic grouping to data-driven behavioral clustering to identify highly profitable customers, loyalists, and churn-risk users.
-2. **Intelligent Cross-Selling:** Implementing a recommendation engine that analyzes past purchase correlations to suggest highly relevant items, directly impacting revenue and user engagement.
+2. **Intelligent Cross-Selling(Product Recommendation):** Implementing a recommendation engine that analyzes past purchase correlations to suggest highly relevant items, directly impacting revenue and user engagement.
 
 ---
 
