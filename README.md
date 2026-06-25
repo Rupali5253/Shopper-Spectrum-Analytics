@@ -47,10 +47,11 @@ Engineered three critical business metrics for every unique customer to quantify
 ---
 
 ## 💻 Interactive Dashboard Features
-The application provides two primary functionalities:
-1. **Customer Intelligence Portal:** Enter a Customer ID to instantly trigger the backend model, retrieving their exact behavioral segment and business value.
-2. **Product Synergy Engine:** Enter an Item ID to query the similarity matrix, generating a ranked list of the top 5 most mathematically similar products for cross-selling.
+The application features a comprehensive sidebar navigation with three core modules:
 
+1. **Home Dashboard:** Acts as the executive data command center, bridging production operational matrices into predictive client management modules.
+2. **Customer Segmentation Module (Predict Strategic Tiers):** Users can manually input custom **Recency (Days)**, **Frequency (Total purchases)**, and **Monetary (£)** values. The model instantly predicts the Cluster Assignment Group Number and maps it to a specific strategic tier (e.g., "Occasional Shopper Tier").
+3. **Product Recommender:** Deploys high-speed sparse item-based collaborative filtering to track concurrent product matches. It generates the top alternate stock targets immediately, displaying the recommended products alongside their exact **Match Score** percentages.
 ---
 
 ## 🛠️ Technology & Deployment Stack
