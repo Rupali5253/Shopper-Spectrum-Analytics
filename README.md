@@ -1,6 +1,10 @@
-# 🛒 Shopper Spectrum Analytics: Advanced E-Commerce Customer Segmentation & Recommendation System
+# 🛒 Shopper Spectrum Analytics: Customer Segmentation & Recommendation Engine
 
 *Developed by **Rupali Rathore** | Information Technology Undergraduate*
+
+**🚀 Live Demo:** [https://shopper-spectrum-analytics-rupali.streamlit.app/](https://shopper-spectrum-analytics-rupali.streamlit.app/)
+
+---
 
 ## 📌 Project Overview
 **Shopper Spectrum Analytics** is a comprehensive, end-to-end Machine Learning ecosystem designed to solve two of the most critical challenges in the e-commerce industry: **understanding customer behavior** and **driving personalized sales**. 
@@ -9,7 +13,7 @@ This project goes beyond basic data analysis. It integrates unsupervised machine
 
 ## 🎯 Core Business Objectives
 1. **Behavioral Customer Segmentation:** Transitioning from traditional demographic grouping to data-driven behavioral clustering to identify highly profitable customers, loyalists, and churn-risk users.
-2. **Intelligent Cross-Selling(Product Recommendation):** Implementing a recommendation engine that analyzes past purchase correlations to suggest highly relevant items, directly impacting revenue and user engagement.
+2. **Intelligent Cross-Selling (Product Recommendation):** Implementing a recommendation engine that analyzes past purchase correlations to suggest highly relevant items, directly impacting revenue and user engagement.
 
 ---
 
@@ -52,6 +56,7 @@ The application features a comprehensive sidebar navigation with three core modu
 1. **Home Dashboard:** Acts as the executive data command center, bridging production operational matrices into predictive client management modules.
 2. **Customer Segmentation Module (Predict Strategic Tiers):** Users can manually input custom **Recency (Days)**, **Frequency (Total purchases)**, and **Monetary (£)** values. The model instantly predicts the Cluster Assignment Group Number and maps it to a specific strategic tier (e.g., "Occasional Shopper Tier").
 3. **Product Recommender:** Deploys high-speed sparse item-based collaborative filtering to track concurrent product matches. It generates the top alternate stock targets immediately, displaying the recommended products alongside their exact **Match Score** percentages.
+
 ---
 
 ## 🛠️ Technology & Deployment Stack
