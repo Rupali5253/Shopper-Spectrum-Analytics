@@ -8,7 +8,6 @@
 🔗 [https://shopper-spectrum-analytics-rupali.streamlit.app/](https://shopper-spectrum-analytics-rupali.streamlit.app/)
 
 ---
----
 
 ## 📌 Project Overview
 **Shopper Spectrum Analytics** is a comprehensive, end-to-end Machine Learning ecosystem designed to solve two of the most critical challenges in the e-commerce industry: **understanding customer behavior** and **driving personalized sales**. 
