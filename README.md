@@ -2,8 +2,12 @@
 
 *Developed by **Rupali Rathore** | Information Technology Undergraduate*
 
-**🚀 Live Demo:** [https://shopper-spectrum-analytics-rupali.streamlit.app/](https://shopper-spectrum-analytics-rupali.streamlit.app/)
+---
 
+### 🌐 Live Demo
+🔗 [https://shopper-spectrum-analytics-rupali.streamlit.app/](https://shopper-spectrum-analytics-rupali.streamlit.app/)
+
+---
 ---
 
 ## 📌 Project Overview
