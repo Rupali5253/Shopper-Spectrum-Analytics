@@ -17,10 +17,7 @@ def load_project_artifacts():
         similarity_matrix = pickle.load(f)
     return kmeans_model, data_scaler, similarity_matrix
 
-try:
-    kmeans, scaler, item_sim_df = load_project_artifacts()
-except Exception as e:
-    st.error(f"Error loading system binaries: {e}")
+kmeans, scaler, item_sim_df = load_project_artifacts()
 
 # Sidebar high-fidelity navigation controls using raw text layouts
 st.sidebar.title("Navigation")
