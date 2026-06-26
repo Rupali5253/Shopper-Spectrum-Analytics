@@ -2,6 +2,15 @@ import streamlit as st
 import pickle
 import pandas as pd
 import numpy as np
+import os
+import zipfile
+
+# --- UNZIP LOGIC START ---
+# Yeh code ensure karta hai ki app chalne se pehle .pkl file ready ho
+if not os.path.exists('item_similarity.pkl'):
+    with zipfile.ZipFile('item_similarity.zip', 'r') as zip_ref:
+        zip_ref.extractall('.')
+# --- UNZIP LOGIC END ---
 
 # Set page configuration for a modern wide professional layout
 st.set_page_config(page_title="E-Commerce Insights Platform", layout="wide", initial_sidebar_state="expanded")
